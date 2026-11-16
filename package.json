@@ -1,0 +1,13 @@
+{
+  "name": "solana-sniper-bot",
+  "version": "1.0.0",
+  "description": "Solana Pro Sniper & Bidding Bot",
+  "main": "run.js",
+  "scripts": {
+    "start": "node run.js"
+  },
+  "dependencies": {
+    "@solana/web3.js": "^1.95.8",
+    "bs58": "^5.0.0"
+  }
+}
